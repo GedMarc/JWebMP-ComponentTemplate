@@ -1,0 +1,42 @@
+{
+  "name": "JWebMP",
+  "authors": [
+    "Marc Magon <marc.magon@gmail.com>"
+  ],
+  "description": "JWebMP Component Template  Configuration",
+  "main": "",
+  "keywords": [
+    "JWebMP",
+    "Java",
+    "WebFramework",
+    "RAD",
+    "Development",
+    "IDE",
+    "Develop"
+  ],
+  "license": "MIT",
+  "homepage": "http://www.jwebmp.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "example.one": "^1.4.1"
+  },
+  "ignoredDependencies": [
+    "jquery-ui",
+	"jquery",
+	"bootstrap",
+	"angular",
+    "font-awesome",
+    "holderjs",
+    "metisMenu",
+    "cldrjs",
+    "bootstrap-social",
+    "flot.tooltip"
+  ]
+}
